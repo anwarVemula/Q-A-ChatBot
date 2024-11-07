@@ -11,7 +11,7 @@ LangChain Prompt Management: Incorporates LangChain's template management and re
 
 How to Use
 
-Open the Streamlit app in your browser (usually at http://localhost:8501).
+
 In the sidebar:
 Enter OpenAI API Key: Input your OpenAI API key for authentication.
 Select OpenAI Model: Choose between models (GPT-4, GPT-4-turbo).
