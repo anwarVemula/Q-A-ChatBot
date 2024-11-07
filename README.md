@@ -20,6 +20,8 @@ LangChain Prompt Management: Incorporates LangChain's template management and re
 
 How to Use
 
+https://q-a-chatbot-kmrglzk9rbgvervruaqnqf.streamlit.app
+
 In the sidebar:
 
 Enter OpenAI API Key: Input your OpenAI API key for authentication.
