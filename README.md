@@ -5,17 +5,27 @@ This is a simple Q&A chatbot built using Streamlit, OpenAI's API, and LangChain 
 Features
 
 Streamlit Interface: An easy-to-use interface for interacting with the chatbot.
+
 Customizable Settings: Users can adjust parameters like model selection, response temperature, and maximum token count.
+
 OpenAI API Integration: Uses OpenAI's language models (GPT-4, GPT-4-turbo) for generating responses.
+
 LangChain Prompt Management: Incorporates LangChain's template management and response parsing for streamlined interaction handling.
+
+
+
 
 How to Use
 
 
 In the sidebar:
+
 Enter OpenAI API Key: Input your OpenAI API key for authentication.
+
 Select OpenAI Model: Choose between models (GPT-4, GPT-4-turbo).
+
 Adjust Settings: Set the response temperature and maximum token count to control response creativity and length.
+
 Type a question in the input field and hit "Enter" to receive a response from the chatbot.
 
 
@@ -23,7 +33,9 @@ Type a question in the input field and hit "Enter" to receive a response from th
 Project Structure
 
 app.py: Main file containing the Streamlit interface and chatbot logic.
+
 .env: Environment file for storing API keys (not included for security).
+
 requirements.txt: Lists the Python packages required for the project.
 
 
@@ -31,6 +43,9 @@ requirements.txt: Lists the Python packages required for the project.
 Dependencies
 
 Streamlit: Provides the web interface.
+
 OpenAI: API for generating responses from GPT models.
+
 LangChain: Manages prompt templates and response parsing.
+
 Dotenv: Manages environment variables for secure API key storage.
